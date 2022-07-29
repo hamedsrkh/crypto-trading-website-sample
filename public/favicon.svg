@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>favicon</title>
+    <defs>
+        <polygon id="path-1" points="0 793.701135 1122.51972 793.701135 1122.51972 0 0 0"></polygon>
+    </defs>
+    <g id="favicon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(-662.000000, -355.000000)">
+            <g transform="translate(561.500000, 397.000000) scale(-1, 1) rotate(-180.000000) translate(-561.500000, -397.000000) translate(0.000000, 0.000000)" id="Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="path36"></g>
+                <g id="Group" mask="url(#mask-2)">
+                    <g transform="translate(668.999833, 369.333351)">
+                        <g transform="translate(0.333066, 0.545733)">
+                            <path d="M21.333328,67.999983 L56.2706526,2.662666 C56.8079858,1.65733292 56.0826526,0.441333223 54.9426529,0.438666557 L35.6079911,0.371999907 L0.447999888,65.7626502 C-0.094666643,66.7693166 0.634666508,67.9893163 1.77866622,67.9906497 L21.333328,67.999983 Z" id="path42" fill="#008CFF" fill-rule="nonzero"></path>
+                        </g>
+                        <g transform="translate(28.604926, 40.534790)">
+                            <path d="M26.66666,27.999993 L0.111999972,28.0106597 L14.6413297,0.859999785 L27.9986597,25.7733269 C28.5386595,26.7813266 27.8093264,27.999993 26.66666,27.999993" id="path46" fill="#008CFF" fill-rule="nonzero"></path>
+                        </g>
+                        <g transform="translate(0.430533, 0.167333)">
+                            <path d="M13.666663,27.999993 L0.347999663,3.0506659 C-0.188000203,2.04533282 0.537332949,0.830666459 1.67733266,0.82666646 L28.2466594,0.750666479 L13.666663,27.999993 Z" id="path50" fill="#008CFF" fill-rule="nonzero"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
